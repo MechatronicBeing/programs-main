@@ -1,2 +1,2 @@
 # Mind
-The main software of the Mechatronic Being, aka, the mind.
+Main programs of the MechatronicBeing.
